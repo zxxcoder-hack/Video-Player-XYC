@@ -1,0 +1,6 @@
+{
+  "version": "1.4.2",
+  "released": "2026-10-01",
+  "features": ["Dark mode", "Offline cache", "Export to PDF"],
+  "fixes": ["Crash on rotate", "Login timeout bug"]
+}
