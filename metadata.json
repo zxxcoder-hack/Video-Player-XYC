@@ -1,8 +1,0 @@
-{
-  "version": "1.2.0",
-  "released": "2026-10-15",
-  "link": "https://github.com/zxxcoder-hack/Video-Player-XYC/releases/download/1.2.0/app-release.apk",
-  "directLink": "direct-download-link/github release link",
-  "features": ["Offline cache", "Online Streaming", "Design update"],
-  "fixes": ["Crash on rotate", "Bug", "Unexpected crash"]
-}
