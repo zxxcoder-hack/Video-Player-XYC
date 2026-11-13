@@ -1,0 +1,19 @@
+{
+  "version": "1.4.0",
+  "released": "2026-11-12",
+  "description": "This update brings a smarter feed with dedicated sections for Top Animes, Ongoing Animes, Top Drama, and Trending. You can now tap View All on any row to see everything in that category in a full grid. Startup sync is also faster and more resilient on slow networks.",
+  "features": [
+    "Feed is now split into sections: Top Animes, Ongoing Animes, Top Drama, Random, Trending",
+    "Tap View All on any section to open the full grid",
+    "New 'ongoing' detection based on item status from the server",
+    "Smarter thumbnail decoding — less memory, faster scrolling",
+    "Automatic retry with countdown when the network is slow"
+  ],
+  "fixes": [
+    "Fixed a case where the feed stayed empty after a failed sync",
+    "Fixed crash when reopening the app during a sync",
+    "Fixed Drama metadata failing on first launch",
+    "Reduced duplicate network calls on cold start"
+  ],
+  "link": ""
+}
