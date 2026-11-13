@@ -1,8 +1,0 @@
-{
-  "version": "1.3.0",
-  "released": "2026-10-28",
-  "link": "https://github.com/zxxcoder-hack/Video-Player-XYC/releases/download/1.3.0/app-release.apk",
-  "directLink": "direct-download-link/github release link",
-  "features": ["Better perfomence", "Design update", "Sign in(optional)", "Sign Up(optional)", "Added Shop"],
-  "fixes": ["Search fix", "Unexpected downloads error", "Save to gallery","Bugs", "Unexpected crash"]
-}
