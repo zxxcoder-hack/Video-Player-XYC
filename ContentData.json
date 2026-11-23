@@ -1,61 +1,65 @@
 {
   "anime": {
-    "master": "https://u.pone.rs/orccsjbo.enc",
+    "master": "https://noneapk.xyz/data/xyc-player/anime/master.json.enc",
     "1": {
-      "data": "https://u.pone.rs/nvlhqner.enc",
-      "thumb": "https://u.pone.rs/slqpfmuy.dt"
+      "data": "https://noneapk.xyz/data/xyc-player/anime/json/1.json.enc",
+      "thumb": "https://noneapk.xyz/data/xyc-player/anime/thumbnail/thumbs_1.dt"
     },
     "2": {
-      "data": "https://u.pone.rs/kwdibcqh.enc",
-      "thumb": "https://u.pone.rs/gsjmuolc.dt"
+      "data": "https://noneapk.xyz/data/xyc-player/anime/json/2.json.enc",
+      "thumb": "https://noneapk.xyz/data/xyc-player/anime/thumbnail/thumbs_2.dt"
     },
     "3": {
-      "data": "https://u.pone.rs/zezhlqev.enc",
-      "thumb": "https://u.pone.rs/tumbubfh.dt"
+      "data": "https://noneapk.xyz/data/xyc-player/anime/json/3.json.enc",
+      "thumb": "https://noneapk.xyz/data/xyc-player/anime/thumbnail/thumbs_3.dt"
     },
     "4": {
-      "data": "https://u.pone.rs/gczyoxxk.enc",
-      "thumb": "https://u.pone.rs/yozcmjre.dt"
+      "data": "https://noneapk.xyz/data/xyc-player/anime/json/4.json.enc",
+      "thumb": "https://noneapk.xyz/data/xyc-player/anime/thumbnail/thumbs_4.dt"
     },
     "5": {
-      "data": "https://u.pone.rs/tqvmtxte.enc",
-      "thumb": "https://u.pone.rs/tkglpvzt.dt"
+      "data": "https://noneapk.xyz/data/xyc-player/anime/json/5.json.enc",
+      "thumb": "https://noneapk.xyz/data/xyc-player/anime/thumbnail/thumbs_5.dt"
     },
     "6": {
-      "data": "https://u.pone.rs/uncuzriv.enc",
-      "thumb": "https://u.pone.rs/rvbdrzch.dt"
+      "data": "https://noneapk.xyz/data/xyc-player/anime/json/6.json.enc",
+      "thumb": "https://noneapk.xyz/data/xyc-player/anime/thumbnail/thumbs_6.dt"
     },
     "7": {
-      "data": "https://u.pone.rs/kvbbtean.enc",
-      "thumb": "https://u.pone.rs/hidxbdvl.dt"
+      "data": "https://noneapk.xyz/data/xyc-player/anime/json/7.json.enc",
+      "thumb": "https://noneapk.xyz/data/xyc-player/anime/thumbnail/thumbs_7.dt"
     },
     "8": {
-      "data": "https://u.pone.rs/cxiwlbgb.enc",
-      "thumb": "https://u.pone.rs/pzcxbzsl.dt"
+      "data": "https://noneapk.xyz/data/xyc-player/anime/json/8.json.enc",
+      "thumb": "https://noneapk.xyz/data/xyc-player/anime/thumbnail/thumbs_8.dt"
     },
     "9": {
-      "data": "https://u.pone.rs/geqznkwl.enc",
-      "thumb": "https://u.pone.rs/yqaaivqb.dt"
+      "data": "https://noneapk.xyz/data/xyc-player/anime/json/9.json.enc",
+      "thumb": "https://noneapk.xyz/data/xyc-player/anime/thumbnail/thumbs_9.dt"
     },
     "10": {
-      "data": "https://u.pone.rs/ordwsugz.enc",
-      "thumb": "https://u.pone.rs/zuppxdxb.dt"
+      "data": "https://noneapk.xyz/data/xyc-player/anime/json/10.json.enc",
+      "thumb": "https://noneapk.xyz/data/xyc-player/anime/thumbnail/thumbs_10.dt"
     },
     "11": {
-      "data": "https://u.pone.rs/tlwgcthg.enc",
-      "thumb": "https://u.pone.rs/wvqdgebz.dt"
+      "data": "https://noneapk.xyz/data/xyc-player/anime/json/11.json.enc",
+      "thumb": "https://noneapk.xyz/data/xyc-player/anime/thumbnail/thumbs_11.dt"
     },
     "12": {
-      "data": "https://u.pone.rs/sxwsmraz.enc",
-      "thumb": "https://u.pone.rs/vebalxat.dt"
+      "data": "https://noneapk.xyz/data/xyc-player/anime/json/12.json.enc",
+      "thumb": "https://noneapk.xyz/data/xyc-player/anime/thumbnail/thumbs_12.dt"
+    },
+    "13": {
+      "data": "https://noneapk.xyz/data/xyc-player/anime/json/13.json.enc",
+      "thumb": "https://noneapk.xyz/data/xyc-player/anime/thumbnail/thumbs_13.dt"
     }
   },
   "drama": {
-    "master": "https://u.pone.rs/hytxtarm.enc",
+    "master": "https://noneapk.xyz/data/xyc-player/drama/master.json.enc",
     "1": {
-      "data": "https://u.pone.rs/vfvrtxhb.enc",
-      "thumb": "https://u.pone.rs/mowwyntz.dt"
+      "data": "https://noneapk.xyz/data/xyc-player/drama/json/1.json.enc",
+      "thumb": "https://noneapk.xyz/data/xyc-player/drama/thumbnail/thumbs_1.dt"
     }
   },
-  "lastUpdated": "2026-11-19T14:34:28.305891+00:00"
+  "lastUpdated": "2026-11-23T08:59:11.182784+00:00"
 }
